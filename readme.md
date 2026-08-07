@@ -1,6 +1,6 @@
-# 20ITEL705 – Applied Machine Learning
+# Applied Machine Learning
 
-Course repository for **20ITEL705 – Applied Machine Learning**, containing unit-wise implementations as Google Colab notebooks.
+Course repository for ** Applied Machine Learning**, containing unit-wise implementations as Google Colab notebooks.
 
 ## 📌 About the Course
 
