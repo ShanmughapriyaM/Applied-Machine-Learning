@@ -1,6 +1,6 @@
 # Applied Machine Learning
 
-Course repository for ** Applied Machine Learning**, containing unit-wise implementations as Google Colab notebooks.
+Course repository for **Applied Machine Learning**, containing unit-wise implementations as Google Colab notebooks.
 
 ## 📌 About the Course
 
