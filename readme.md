@@ -60,7 +60,7 @@ Datasets used in the notebooks are either loaded from standard libraries (e.g., 
 
 ## 👩‍🏫 Maintained By
 
-Shanmughapriya, Assistant Professor, Department of Computer Science
+Shanmughapriya, Assistant Professor, Department of Information Technology, Sri Sairam Institute of Technology
 
 ## 📄 License
 
